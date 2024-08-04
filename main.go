@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/shakeel/pdf2txt/pdf"
+	"github.com/RubenOlsen/pdf2txt/pdf"
 )
 
 var (

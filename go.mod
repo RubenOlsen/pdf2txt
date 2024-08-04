@@ -1,3 +1,3 @@
-module github.com/shakeel/pdf2txt
+module github.com/RubenOlsen/pdf2txt
 
-require rsc.io/pdf v0.1.1
+go 1.22.2
